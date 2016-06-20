@@ -27,7 +27,7 @@ Paul Musso
 
 ### *Développeur Javascript Sénior sur [Flexible Datasync](https://datasync.orange.com) ([mBaaS](https://en.wikipedia.org/wiki/Mobile_backend_as_a_service))*, [Orange SA](http://www.orange.com) (2015-01 — Present)
 
-Developpeur Javacript et leader technique sur [Flexible Datasync](https://datasync.orange.com), service cloud pour développer des applications web et mobiles
+Développeur Javacript et leader technique sur [Flexible Datasync](https://datasync.orange.com), service cloud pour développer des applications web et mobiles
   - Développement Javascript avec React, Redux, Saga, Babel, Bootstrap 3 & 4, Sass, Less, WebPack, Browserify
   - Automatisation de tests unitaires (Karma, Jasmine, Mocha), fonctionnels ([Selenium Builder](http://seleniumbuilder.github.io/se-builder/) et [WebDriver](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs), webdriver.io, [BrowserStack](https://www.browserstack.com)) avec couverture de code (istanbul, isSparta).
   - Publication open source de [SDKs](https://github.com/webcom-components) et [autres componsants](https://github.com/paulmusso) sous [Github](https://github.com)  et [NPM](https://www.npmjs.com/package/webcom)
@@ -146,6 +146,6 @@ Conception et réalisation d'une application web de gestion, répertoriant les
 
 ## CENTRES D'INTERET
 
-- SPORT: Course à pied Natation Freelitics 
+- SPORT: Course à pied Natation Freeletics 
 
 

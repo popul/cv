@@ -31,7 +31,7 @@
       "website": "http://www.orange.com",
       "position": "Développeur Javascript Sénior sur [Flexible Datasync](https://datasync.orange.com) ([mBaaS](https://en.wikipedia.org/wiki/Mobile_backend_as_a_service))",
       "startDate": "2015-01",
-      "summary": "Developpeur Javacript et leader technique sur [Flexible Datasync](https://datasync.orange.com), service cloud pour développer des applications web et mobiles",
+      "summary": "Développeur Javacript et leader technique sur [Flexible Datasync](https://datasync.orange.com), service cloud pour développer des applications web et mobiles",
       "highlights": [
         "Développement Javascript avec React, Redux, Saga, Babel, Bootstrap 3 & 4, Sass, Less, WebPack, Browserify",
         "Automatisation de tests unitaires (Karma, Jasmine, Mocha), fonctionnels ([Selenium Builder](http://seleniumbuilder.github.io/se-builder/) et [WebDriver](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs), webdriver.io, [BrowserStack](https://www.browserstack.com)) avec couverture de code (istanbul, isSparta).",
@@ -357,7 +357,7 @@
       "keywords": [
         "Course à pied",
         "Natation",
-        "Freelitics"
+        "Freeletics"
       ]
     }
   ],
