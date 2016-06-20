@@ -1,3 +1,8 @@
+[![Build Status](https://travis-ci.org/popul/cv.svg?branch=master)](https://travis-ci.org/popul/cv)
+[![Dependency Status](https://david-dm.org/popul/cv.svg)](https://david-dm.org/studiolasso/cv)
+[![devDependency Status](https://david-dm.org/popul/cv/dev-status.svg)](https://david-dm.org/popul/cv#info=devDependencies)
+
+
 Paul Musso
 ============
 
