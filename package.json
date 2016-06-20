@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build:assets": "cp -R assets/* dist",
-    "build:resume": "hackmyresume BUILD ./src/resume.json TO ./dist/resume.all -t jsonresume-theme-elegant",
+    "build:resume": "hackmyresume BUILD ./src/resume.json TO ./dist/resume.all -t node_modules/jsonresume-theme-elegant",
     "build:resume2": "hackmyresume BUILD ./src/resume.json TO ./dist/resume.all -t modern",
     "build": "rimraf dist && mkdir dist && npm run build:assets && npm run build:resume",
     "build:watch": "watch --wait 1 'npm run build' ./src/ ./jsonresume-theme-elegant",

@@ -9,7 +9,7 @@ node_js:
   - "5"
 before_script:
   - npm prune
-script: npm test && cd demo && npm i && PUBLIC_PATH=/cv npm run build
+script: npm run build
 after_success:
   - bash ./deploy-gh-pages.sh
 branches:
