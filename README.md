@@ -48,6 +48,7 @@ Conception, développement et maintenance de l'interface Responsive avec Dojo, 
 
 Création de composants aidant à la création musicale collaborative en ligne
   - Création d'un studio de musique Web permettant d'éditer des compositions musicales
+  - Client Javascript (ES6 avec Babel) React.js avec architecture flux (Redux, Redux-Saga), packaging avec Webpack
   - Génération de musiques en Node.JS avec FFmpeg
   - Déploiement dans Azure avec Docker
 
