@@ -14,8 +14,8 @@ Paul Musso
 ## COMPETENCES
 
   - Developpement Web: JavaScript HTML 5 CSS LESS SASS Stylus Jade FLUX MVC REST Web Socket OAuth Webpack Browserify NPM Bower Gulp Grunt 
-  - JavaScript: Node.js React.js jQuery Bootstrap Backbone.js Redux Redux-Saga Dojo CanJS Express ESLint JSLint 
-  - Testing: Karma Jasmine Mocha Istanbul isSparta Sinon.JS PhantomJS XUnit WebDriver.IO Selenium WebDriver Selenium Builder 
+  - JavaScript: Node.js React.js Electron jQuery Bootstrap Backbone.js Redux Redux-Saga lodash lodash/fp ramda Dojo CanJS Express ESLint JSLint 
+  - Testing: Karma Jasmine Mocha Jest Istanbul isSparta Sinon.JS PhantomJS XUnit WebDriver.IO Selenium WebDriver Selenium Builder 
   - DevOps: Ansible Vagrant Consul Nginx Git SVN TFS Mercurial Jenkins Travis CI Github Gitlab Gitlab CI 
   - Microsoft: Sharepoint 2007 Sharepoint 2010 C# F# C++ Powershell ASP.net LinQ WCF WF Reporting Services Silverlight IIS 7.0 TFS 2010 
   - BDD: MongoDB Redis SQL SERVER MySQL Oracle Entity Framework Mongoose Hibernate 
@@ -25,9 +25,19 @@ Paul Musso
 
 ## EXPERIENCE PROFESSIONNELLE
 
-### *Développeur Javascript Sénior sur [Flexible Datasync](https://datasync.orange.com) ([mBaaS](https://en.wikipedia.org/wiki/Mobile_backend_as_a_service))*, [Orange SA](http://www.orange.com) (2015-01 — Present)
+### *Consultant Javascript pour le [CNES Toulouse](https://cnes.fr/)* (2016-11 - Présent)
 
-Développeur Javacript et leader technique sur [Flexible Datasync](https://datasync.orange.com), service cloud pour développer des applications web et mobiles
+Développeur Javascript fullstack sénior en régie chez [Atos](https://fr.atos.net/fr-fr/accueil.html) pour le [CNES Toulouse](https://cnes.fr/). Développement et conseil sur une application electron de visualisation de données provenant de satellites.
+- Audit de performances de l'application Electron/React/Redux, prévention et optimisation
+- Optimisations du packaging Webpack, de la tranpilation babel
+- Mise en place de tests end 2 end avec Mocha, à l’aide de snapshot testing
+- Refactoring de la gestion des logs applicatifs avec Winston
+- Audit de performance, optimisation de l’affichage, identification et resolution de fuites mémoires (React/Redux)
+- Mise en place d’une solution de monitoring et de profiling Node.JS et de processus electron.
+
+### *Tech Lead Javascript sur [Flexible Datasync](https://datasync.orange.com) ([mBaaS](https://en.wikipedia.org/wiki/Mobile_backend_as_a_service))*, [Orange SA](http://www.orange.com) (2015-01 — 2016-11)
+
+Leader technique et développeur Javascript fullstack sur [Flexible Datasync](https://datasync.orange.com), service cloud pour développer des applications web et mobiles
   - Développement Javascript avec React, Redux, Saga, Babel, Bootstrap 3 & 4, Sass, Less, WebPack, Browserify
   - Automatisation de tests unitaires (Karma, Jasmine, Mocha), fonctionnels ([Selenium Builder](http://seleniumbuilder.github.io/se-builder/) et [WebDriver](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs), webdriver.io, [BrowserStack](https://www.browserstack.com)) avec couverture de code (istanbul, isSparta).
   - Publication open source de [SDKs](https://github.com/webcom-components) et [autres componsants](https://github.com/paulmusso) sous [Github](https://github.com)  et [NPM](https://www.npmjs.com/package/webcom)
