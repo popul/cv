@@ -127,11 +127,7 @@ Conception et réalisation d'une application web de gestion, répertoriant les
 
 
 
-### Certifications Microsoft (2008-09 — 2010-06)
-
-
-
-
+### 11 Certifications Microsoft (MCPD .Net et Sharepoint)(2008-09 — 2010-06)
 
 
 ## PUBLICATIONS
